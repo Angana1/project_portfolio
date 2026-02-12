@@ -1,5 +1,5 @@
 # Projects
-Please find below a list of my technical projects/codebases organised by domain.
+Please find below a list of my technical projects and code explorations organised by domain.
 
 ## 🏥 Healthcare & Biomedical AI
 
@@ -8,7 +8,6 @@ Please find below a list of my technical projects/codebases organised by domain.
 - [Gene-Guard: Real-Time Genomic Data Leak Prevention](https://github.com/Angana1/GeneGuard)
 - [Boundary-Aware Transformer for the detection of boundaries on skin lesions](https://github.com/Angana1/Image-Segmentation-using-a-Boundary-Aware-Transformer)
 - [Gaze-Tracking System for ease of digital navigation for persons with disabilities](https://github.com/Angana1/Gaze-Detection)
-- []()
 
 ## 📈 Time Series & Forecasting
 

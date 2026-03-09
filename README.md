@@ -3,7 +3,7 @@ Please find below a list of my technical projects and code explorations organise
 
 ## 🏥 Healthcare & Biomedical AI
 
-- [Antibody Developability Prediction using Language Models and ML](https://github.com/Angana1/Antibody_Developability_Prediction/tree/main)
+- [Antibody Developability Prediction using Language Models and ML Classifiers](https://github.com/Angana1/Antibody_Developability_Prediction/tree/main)
 - [Gene-Guard: Real-Time Genomic Data Leak Prevention](https://github.com/Angana1/GeneGuard)
 - [EMG Signal Analysis to Predict Finger Joint Movements](https://github.com/Angana1/Movement-decoder-using-EMG-data)
 - [Somite Counting in Embryonic Zebrafish using Convolutional Neural Networks](https://github.com/Angana1/Computer-Vision-for-Somite-Counting)

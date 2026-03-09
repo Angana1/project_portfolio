@@ -1,7 +1,7 @@
 # Projects
 Please find below a list of my technical projects and code explorations organised by domain.
 
-## 🏥 Healthcare & Biomedical AI
+## 🏥 Healthcare & Bioinformatics
 
 - [Antibody Developability Prediction using Language Models and ML Classifiers](https://github.com/Angana1/Antibody_Developability_Prediction/tree/main)
 - [Gene-Guard: Real-Time Genomic Data Leak Prevention](https://github.com/Angana1/GeneGuard)

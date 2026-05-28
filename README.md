@@ -9,6 +9,7 @@ Please find below a list of my technical projects and code explorations organise
 - [Somite Counting in Embryonic Zebrafish using Convolutional Neural Networks](https://github.com/Angana1/Computer-Vision-for-Somite-Counting)
 - [Structural and Functional MRI Analysis to identify Brain Functional Networks](https://github.com/Angana1/MRI-Analysis-to-detect-Brain-Region-Activity/tree/main)
 - [Boundary-Aware Transformer for the detection of boundaries on skin lesions](https://github.com/Angana1/Image-Segmentation-using-a-Boundary-Aware-Transformer)
+- [Elderly Wearable Monitoring for Fall Detection: A Web App](https://github.com/Angana1/Elderly_Wearable_Fall_Detection_App)
 - [Gaze-Tracking System for ease of digital navigation for persons with disabilities](https://github.com/Angana1/Gaze-Detection)
 
 ## 📈 Time Series & Forecasting

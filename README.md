@@ -12,15 +12,16 @@ Please find below a list of my technical projects and code explorations organise
 - [Elderly Wearable Monitoring for Fall Detection: A Web App](https://github.com/Angana1/Elderly_Wearable_Fall_Detection_App)
 - [Gaze-Tracking System for ease of digital navigation for persons with disabilities](https://github.com/Angana1/Gaze-Detection)
 
+## 💬 Natural Language Processing (NLP)
+
+- [Post-Training Qwen3-1.7B using SFT and RL for Multi-Domain Performance](https://github.com/Angana1/Multi-Domain-LLM-Post-Training)
+- [Joint Event-Relation Extraction using Encoder Decoder Architecture](https://github.com/Angana1/Joint-Event-Extraction-NLP)
+- [Sentiment Prediction and Named Entity Recognition](https://github.com/Angana1/NLP-Sentiment-Prediction)
+
 ## 📈 Time Series & Forecasting
 
 - [LSTM-based Time-Series Prediction of Covid-19 Cases](https://github.com/Angana1/Time-Series-Prediction-of-COVID-Cases)
 - [Time-series Forecasting of lead prices to find optimal purchase periods](https://github.com/Angana1/Predictive-Analytics-to-Forecast-Lead-Price)
-
-## 💬 Natural Language Processing (NLP)
-
-- [Joint Event-Relation Extraction using Encoder Decoder Architecture](https://github.com/Angana1/Joint-Event-Extraction-NLP)
-- [Sentiment Prediction and Named Entity Recognition](https://github.com/Angana1/NLP-Sentiment-Prediction)
 
 ## 🌐 Network Analysis & Graph Analytics
 
